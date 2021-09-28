@@ -23,3 +23,8 @@
 
 > * In case one might want to train their own auxiliary discriminators models instead of using pretrained models by researchers. 
 > * See the notebook
+
+**Utils.ipynb** 
+
+> * Include some utility functions such as creating gifs from trained samples and finding most similar geometries from dataset. 
+> * See the notebook

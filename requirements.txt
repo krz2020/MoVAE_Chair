@@ -17,6 +17,7 @@ googledrivedownloader==0.4
 grpcio==1.41.0
 h5py==3.1.0
 idna==3.2
+imageio==2.9.0
 ipython==7.28.0
 jedi==0.18.0
 keras==2.6.0
