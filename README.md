@@ -2,9 +2,10 @@
 
 **requirements.txt**
 
-> A text file produced by pip describing the necessary python libs to reproduce the same virtual environment that is used for training. (The file can be created by calling the following command)
+> A text file produced by pip describing the necessary python libs to reproduce the same virtual environment that is used for training. 
 > ```shell
-> pip freeze > requirements.txt
+> pip freeze > requirements.txt  # The requirements file can be created by calling this command
+> pip install -r requirements.txt  # The packages specified in the requirements file can be installed by pip by calling this command
 > ```
 
 **MoVAE_Chair.ipynb**
